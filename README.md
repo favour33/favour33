@@ -1,6 +1,6 @@
-- 👋 Hi, I’m favour :)
-- 👀 I’m interested in frontend and full stack web development
-- 🌱 I’m currently learning JavaScript ES6
+- 👋 Hi, I’m favour 
+- 👀 I’m interested in frontend and full-stack web development
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on any project of any size! Feel free to contact me.
 - 📫 How to reach me - https://www.linkedin.com/in/fn84/
 
